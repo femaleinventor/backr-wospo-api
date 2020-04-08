@@ -1,24 +1,13 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This repo will be a live API following women's sports
 
-Things you may want to cover:
+Things of Note:
 
-* Ruby version
+* Ruby version is ruby 2.6.3p62 (2019-04-16 revision 67580) [x86_64-darwin18]
 
-* System dependencies
+* Rails 6.0.2.2 in API mode
 
-* Configuration
+* Database is Postgres
 
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+* Default Branch is Development
