@@ -9,3 +9,5 @@ Things of Note:
 * Rails 6.0.2.2 in API mode
 
 * Database is Postgres
+
+* Default Branch is Development
