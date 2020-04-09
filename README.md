@@ -2,7 +2,7 @@
 
 This repo will be a live API following women's sports
 
-Things of Note:
+### Setup
 
 * Ruby version is ruby 2.6.3p62 (2019-04-16 revision 67580) [x86_64-darwin18]
 
@@ -15,3 +15,7 @@ Things of Note:
 * Uses Travis CI for continuous integration
 
 * Deploys on Heroku
+
+### Schema
+
+![schema](images/basic_schema.png)
