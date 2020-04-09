@@ -11,3 +11,7 @@ Things of Note:
 * Database is Postgres
 
 * Default Branch is Development
+
+* Uses Travis CI for continuous integration
+
+* Deploys on Heroku
